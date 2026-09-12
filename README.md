@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rifa 👋
 
-<!--
-**fathimarifa25/fathimarifa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about learning technology and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my programming, problem-solving, and software development skills.
+
+###  Technologies
+
+- C
+- C++
+- Java
+- Python
+- Git & GitHub
+
+### 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- Backend Development
+- APIs
+- Database Management
+
+### 🎯 Goals
+
+- Build meaningful projects
+- Strengthen my problem-solving skills
+- Learn new technologies
+- Become a better software developer
+
+### 📌 Projects
+
+I'm currently working on personal and academic projects to gain hands-on experience and continuously improve my skills.
+
+✨ *Learning, building, and improving one step at a time.*
