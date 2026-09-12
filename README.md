@@ -2,9 +2,9 @@
 
 🎓 3rd Year B.Tech Computer Science & Engineering Student
 
-💻 Passionate about learning technology and building practical projects.
+ Passionate about learning technology and building practical projects.
 
-🌱 Currently improving my programming, problem-solving, and software development skills.
+ Currently improving my programming, problem-solving, and software development skills.
 
 ###  Technologies
 
@@ -26,8 +26,7 @@
 
 - Build meaningful projects
 - Strengthen my problem-solving skills
-- Learn new technologies
-- Become a better software developer
+  
 
 ### 📌 Projects
 
